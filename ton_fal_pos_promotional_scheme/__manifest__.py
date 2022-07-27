@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Generate Pos Promotional Scheme",
+    'name': "Generate Poss Promotional Scheme",
 
     'summary': """
        Generate Pos Promotional Scheme
